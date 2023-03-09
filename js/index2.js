@@ -151,38 +151,38 @@ let engScore = prompt("영어 점수를 입력하세요"); //90
 let avg = (mathScore + engScore) / 2;
 console.log(avg);
 
-//
-let num = 123;
-num = String(num);
-console.log(typeof num);
-//
-num = Number(num);
-console.log(typeof num);
-console.log(Number("abcdefg"));
+// //
+// let num = 123;
+// num = String(num);
+// console.log(typeof num);
+// //
+// num = Number(num);
+// console.log(typeof num);
+// console.log(Number("abcdefg"));
 
-let str1 = true;
-let str2 = 123;
-let str3 = null;
+// let str1 = true;
+// let str2 = 123;
+// let str3 = null;
 
-console.log(tpyeof String(str1));
-console.log(tpyeof String(str2));
-console.log(tpyeof String(str3));
-console.log(tpyeof str1);
-console.log(tpyeof str1,toString());
+// console.log(typeof String(str1));
+// console.log(typeof String(str2));
+// console.log(typeof String(str3));
+// console.log(typeof str1);
+// console.log(typeof str1,toString());
 
-let n1 = true;
-let n2 = false;
-let n3 = "123.9";
+// let n1 = true;
+// let n2 = false;
+// let n3 = "123.9";
 
-console.log(typeof n1);
-console.log(typeof n2);
-console.log(typeof n3);
+// console.log(typeof n1);
+// console.log(typeof n2);
+// console.log(typeof n3);
 
-console.log(typeof Number(n1));
-console.log(typeof Number(n2));
-console.log(typeof Number(n3));
+// console.log(typeof Number(n1));
+// console.log(typeof Number(n2));
+// console.log(typeof Number(n3));
 
-console.log(Number(n1));
-console.log(Number(n2));
-console.log(Number(n3));
-console.log(parseInt(n3));
+// console.log(Number(n1));
+// console.log(Number(n2));
+// console.log(Number(n3));
+// console.log(parseInt(n3));
